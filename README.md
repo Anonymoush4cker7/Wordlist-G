@@ -1,7 +1,7 @@
 # Wordlist-G
 Create password list as per your mind
 # About
-Wordlist-G tool is an python based script with which you can create/generate manually password list as per your mind. This tool works on both rooted Android device and Unrooted Android device.
+Wordlist-G tool with which you can create/generate manually password list as per your mind. This tool works on both rooted Android device and Unrooted Android device.
 # Wordlist-G is available for
 * Termux
 * Kali linux
