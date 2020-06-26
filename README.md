@@ -22,9 +22,11 @@ $ cd Wordlist-G
 
 $ ls
 
-$ nano pass.txt
-* Now type different-different passwords as per your mind
-* After complete all passwords press CTRL+x to save and exit
+$ chmod +x Wordlist-G.sh
+
+$ bash Wordlist-G.sh
+
+* Now select your option
 # Subscribe our channel on youtube
 You Tube :- https://bit.ly/2USjTfO
 # Checkout our website
@@ -39,22 +41,3 @@ https://bit.ly/2YNIdQY
 https://bit.ly/2UP5W24
 
 😇 Thank you for Being part of *Hacker_terminal* Family 🙏
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
