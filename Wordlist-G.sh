@@ -40,10 +40,10 @@ nano pass.txt
 elif [[ $option == 2 || $option == 02 ]]; then
 cd $HOME/Wordlist-G/wordlist
 ls
-elif [[ $option == 4 || $option == 04 ]]; then                                                                                                                
+elif [[ $option == 3 || $option == 04 ]]; then                                                                                                                
 cd $HOME/Wordlist-G/core
 bash update.sh
-elif [[ $option == 5 ]]; then
+elif [[ $option == 4 ]]; then
 exit 1
 
 else
