@@ -43,7 +43,7 @@ ls
 elif [[ $option == 3 || $option == 03 ]]; then                                                                                                                
 cd $HOME/Wordlist-G/core
 bash update.sh
-elif [[ $option == 4 ]]; then
+elif [[ $option == 4 || $option == 04 ]]; then
 exit 1
 
 else
