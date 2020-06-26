@@ -40,3 +40,9 @@ clear
 echo " "
 echo -e "$grn               Wordlist-G has been updated check it now...$reset"
 sleep 3.0
+echo " "
+cd $HOME
+cd ighack
+bash ighack.sh
+clear
+sleep 1.0
