@@ -34,7 +34,7 @@ printf "\e[1;92m[\e[0m\e[1;77m5\e[0m\e[1;92m]\e[0m\e[1;93m Exit\e[0m\n"
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' option
 
 
-if [[ $option == 1 || $option == 01 ]]; then
+elif [[ $option == 1 || $option == 01 ]]; then
 cd $HOME/Wordlist-G/main
 nano pass.txt
 elif [[ $option == 2 || $option == 02 ]]; then
