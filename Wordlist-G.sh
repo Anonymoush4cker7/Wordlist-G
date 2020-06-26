@@ -34,17 +34,21 @@ printf "\e[1;92m[\e[0m\e[1;77m4\e[0m\e[1;92m]\e[0m\e[1;93m Exit\e[0m\n"
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' option
 
 
-elif [[ $option == 1 || $option == 01 ]]; then
+if [[ $option == 1 || $option == 01 ]]; then
 cd $HOME/Wordlist-G/main
 nano pass.txt
 elif [[ $option == 2 || $option == 02 ]]; then
 cd $HOME/Wordlist-G/wordlist
 ls
-elif [[ $option == 3 || $option == 03 ]]; then                                                                                                                
+elif [[ $option == 3 || $option == 03 ]]; then
 cd $HOME/Wordlist-G/core
 bash update.sh
-elif [[ $option == 4 || $option == 04 ]]; then
+                                                   
+
+
+elif [[ $option == 4 ]]; then
 exit 1
+
 
 else
 echo
