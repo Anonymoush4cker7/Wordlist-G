@@ -9,23 +9,34 @@ Wordlist-G tool with which you can create/generate manually password list as per
 * Kali linux
 # Installation
 $ apt update
-
+```
+```
 $ apt upgrade
-
+```
+```
 $ apt install git
-
+```
+```
 $ apt install nano
-
+```
+```
 $ git clone https://github.com/Anonymoush4cker7/Wordlist-G
+```
+```
 # Usage
 $ ls
-
+```
+```
 $ cd Wordlist-G
+```
+```
 
 $ ls
-
+```
+```
 $ chmod +x Wordlist-G.sh
-
+```
+```
 $ bash Wordlist-G.sh
 
 * Now select your option
