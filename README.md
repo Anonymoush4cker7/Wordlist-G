@@ -7,7 +7,9 @@ Wordlist-G tool with which you can create/generate manually password list as per
 # Wordlist-G is available for
 * Termux
 * Kali linux
+
 # Installation
+```
 $ apt update
 ```
 ```
@@ -22,15 +24,17 @@ $ apt install nano
 ```
 $ git clone https://github.com/Anonymoush4cker7/Wordlist-G
 ```
-```
+
+
 # Usage
+```
 $ ls
 ```
 ```
 $ cd Wordlist-G
 ```
-```
 
+```
 $ ls
 ```
 ```
@@ -38,7 +42,7 @@ $ chmod +x Wordlist-G.sh
 ```
 ```
 $ bash Wordlist-G.sh
-
+```
 * Now select your option
 # Subscribe our channel on youtube
 You Tube :- https://bit.ly/2USjTfO
