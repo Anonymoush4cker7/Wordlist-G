@@ -2,7 +2,8 @@
 Create password list as per your mind
 # About
 Wordlist-G tool with which you can create/generate manually password list as per your mind. In this tool you will also get 3 passwords list.
-![IMG_20200626_123650](https://user-images.githubusercontent.com/65849213/86004560-1e231180-ba31-11ea-84de-1bc38ffa6902.jpg)
+![IMG_20200703_184605](https://user-images.githubusercontent.com/65849213/86473017-c3095b80-bd5d-11ea-82cf-86ff626edc42.jpg)
+
 
 # Wordlist-G is available for
 * Termux
